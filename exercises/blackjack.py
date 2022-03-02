@@ -5,6 +5,7 @@ How to play blackjack:    https://bicyclecards.com/how-to-play/blackjack/
 """
 print('Do not space your cards! i.e A, Q your input should be i.e A,Q')
 card = input('Enter two cards between A, J, Q, K, 2, 3, 4, 5, 6, 7, 8, 9, 10: ').split(',')
+
 card_one = card[0]
 card_two = card[1]
 
